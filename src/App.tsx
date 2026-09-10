@@ -81,10 +81,10 @@ export default function App() {
               <span className="drop-shadow-[0_0_30px_rgba(249,115,22,0.5)] text-transparent bg-clip-text bg-gradient-to-br from-yellow-400 via-orange-500 to-red-600">
                 MUNDIAL FOGOS
               </span>
-              <span className="text-white/60 text-3xl md:text-[3.5rem] lg:text-[4.5rem]">R$ 747 MIL EM OPORTUNIDADES GERADAS</span>
+              <span className="text-white/60 text-3xl md:text-[3.5rem] lg:text-[4.5rem] tracking-normal leading-tight">R$ 747 MIL EM OPORTUNIDADES GERADAS</span>
             </h1>
             <p className="text-white/40 text-xl md:text-2xl font-bold uppercase tracking-wide flex items-center gap-4">
-              Gestão: V4 Nunes & Co. | Izabella Lima
+              Gestão: V4 Nunes & Co.
             </p>
           </FadeIn>
         </div>
